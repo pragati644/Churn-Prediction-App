@@ -122,9 +122,5 @@ __pycache__/
 
 ---
 
-## Authors
-
-* Prathiksha P Mulgund
-* \[Your Team Members]
 
 This README makes your repo **professional and recruiter-ready**.
